@@ -6,8 +6,7 @@ import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-import com.bitor.talentcontribution.entity.Member;
-import com.bitor.talentcontribution.entity.member.*;
+import com.bitor.talentcontribution.member.*;
 
 @SpringBootTest
 class TalentContributionApplicationTests {

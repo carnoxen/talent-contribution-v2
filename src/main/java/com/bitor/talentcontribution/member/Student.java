@@ -1,6 +1,4 @@
-package com.bitor.talentcontribution.entity.member;
-
-import com.bitor.talentcontribution.entity.Member;
+package com.bitor.talentcontribution.member;
 
 import jakarta.persistence.Entity;
 import lombok.experimental.SuperBuilder;

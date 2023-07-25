@@ -1,4 +1,4 @@
-package com.bitor.talentcontribution.entity;
+package com.bitor.talentcontribution.member;
 
 import java.util.UUID;
 
